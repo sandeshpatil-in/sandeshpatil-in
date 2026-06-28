@@ -19,17 +19,8 @@
 ---
 
 ## 💼 Experience
-- WordPress Development (Freelance / Contract Projects)
+- Full Stack Developer - Infilemon Technologies
 - Frontend Developer Intern – Amura Marketing Technology
-
----
-
-## 🔥 Featured Projects
-- WordPress Plugin
-- Portfolio Website
-- Landing Pages
-- Custom WordPress Theme
-- WooCommerce Customization Projects
 
 ---
 
